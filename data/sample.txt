@@ -1,0 +1,15 @@
+This is a sample document for testing our RAG system.
+
+It contains multiple paragraphs of text that we can use to test the document ingestion and retrieval capabilities.
+
+The document includes various topics and information that can be used to test the system's ability to find relevant content.
+
+Some key points in this document:
+- Document processing
+- Text vectorization
+- Similarity search
+- Information retrieval
+
+This is the end of our sample document. 
+ Coconut water has a similar electrolyte balance to human blood, making it an excellent natural isotonic beverage. 4. **Can be used as a natural remedy**: Coconut water has been used as a natural remedy for various ailments, including hangovers, digestive issues, and skin problems. 5. **Available in various forms**: Coconut water can be consumed fresh, packaged, or in powdered form
+Here are some approximate price ranges for a new Ford F-250: **Base Model:** * Ford F-250 XL: around $35,000 - $40,000 * Ford F-250 XLT: around $40,000 - $45,000 **Mid-Level Trim:** * Ford F-250 Lariat: around $50,000 - $60,000 **High-End Trim:** * Ford F-250 King Ranch: around $65,000 - $75,000 * Ford F-250 Limited: around $75,000 - $85,000 **Heavy-Duty or Special Editions:** * Ford F-250 Super Duty: around $80,000 - $100,000 or more **Used Ford F-250:** * The price of a used Ford F-250 can vary depending on the model year, mileage, and condition. On average, you can expect to pay: + $20,000 - $30,000 for a 2015-2017 model + $30,000 - $40,000 for a 2018-2020 model + $40,000 - $60,000 for a 2021 or newer model **Factors that Affect Pricing:** 1. **Engine and transmission**: The type of engine and transmission can affect the price. For example, a diesel engine or a high-performance engine can increase the price. 2.

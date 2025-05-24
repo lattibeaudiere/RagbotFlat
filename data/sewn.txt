@@ -1,0 +1,6 @@
+SEWN Project Overview
+SEWN is a blockchain-based survey app using the Sui blockchain. It empowers 
+Black and underrepresented communities by rewarding participants with crypto, 
+while giving them data ownership. It uses RAG (Retrieval-Augmented Generation)
+to generate insights and offer personalized feedback from survey data. Walrus
+is used as the database layer, and Seal handles encryption.
